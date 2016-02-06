@@ -3,6 +3,8 @@
 ## Name Ideas
 - chore-awesome
 - chore-some
+- chore-sum
+- chore-awe-sum
 
 ## References
 https://24ways.org/2015/universal-react/
